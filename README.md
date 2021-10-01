@@ -12,4 +12,4 @@ Step3 https://github.com/JoyDaheeCha/java-racingcar/tree/step3
 
 Step4 https://github.com/JoyDaheeCha/java-racingcar/tree/step4
 
-Step4 https://github.com/JoyDaheeCha/java-racingcar/tree/step5
+Step5 https://github.com/JoyDaheeCha/java-racingcar/tree/step5
